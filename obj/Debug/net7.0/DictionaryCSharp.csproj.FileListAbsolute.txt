@@ -1,0 +1,14 @@
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\bin\Debug\net7.0\DictionaryCSharp.exe
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\bin\Debug\net7.0\DictionaryCSharp.deps.json
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\bin\Debug\net7.0\DictionaryCSharp.runtimeconfig.json
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\bin\Debug\net7.0\DictionaryCSharp.dll
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\bin\Debug\net7.0\DictionaryCSharp.pdb
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.AssemblyInfoInputs.cache
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.AssemblyInfo.cs
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.csproj.CoreCompileInputs.cache
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.dll
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\refint\DictionaryCSharp.dll
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.pdb
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\DictionaryCSharp.genruntimeconfig.cache
+E:\Cristian2\Cristian\Programación\CAMPUSLAND\C#\DictionaryCsharp\obj\Debug\net7.0\ref\DictionaryCSharp.dll
